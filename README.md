@@ -1,4 +1,4 @@
-## Salve meu nome e juan gomes
+## Salve! meu nome e juan gomes
  <div>
   <a href="https://github.com/juangomes376">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juangomes376&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,14 +18,12 @@
   ##
  
 <div> 
-  
-  <a href="www.instagram.com/juangomes_99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
- <a href="https://discord.gg/zuSARJr6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-  <a href="https://www.linkedin.com/in/juan-gomes-8851a518a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/juangomes376/juangomes376/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
