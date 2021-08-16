@@ -1,4 +1,4 @@
-## Salve! meu nome e juan gomes
+## Salve! meu nome e Juan Gomes
  <div>
   <a href="https://github.com/juangomes376">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juangomes376&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
