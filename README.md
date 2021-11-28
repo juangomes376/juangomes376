@@ -18,7 +18,7 @@
   ##
  
 <div> 
-  <a href="linkfly.to/juangomes" target="_blank"><img src="https://img.shields.io/badge/links-social-brightgreen" target="_blank"></a>
+  <a href="https://linkfly.to/juangomes" target="_blank"><img src="https://img.shields.io/badge/links-social-brightgreen" target="_blank"></a>
  
   ![Snake animation](https://github.com/juangomes376/juangomes376/blob/output/github-contribution-grid-snake.svg)
  
