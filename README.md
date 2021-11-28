@@ -18,9 +18,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/juangomes_99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=teste&logoColor=white" target="_blank"></a>
- 
- 
+  <a href="linkfly.to/juangomes" target="_blank"><img src="https://img.shields.io/badge/links-social-brightgreen" target="_blank"></a>
  
   ![Snake animation](https://github.com/juangomes376/juangomes376/blob/output/github-contribution-grid-snake.svg)
  
