@@ -18,8 +18,8 @@
   ##
 
   <div  style="display:flex;" width="100%" >
-    <a  display="flex" margin="auto" width="100%" width="100%" href=""  >
-      <img  style="margin:auto;" height="30" width="200" src="link.svg" >
+    <a  style="margin:auto;"  width="100%" width="100%" href=""  >
+      <img   height="30" width="200" src="link.svg" >
     </a>
   </div>
  
