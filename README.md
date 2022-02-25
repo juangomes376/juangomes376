@@ -17,9 +17,9 @@
   
   ##
 
-  <div  display= "flex" width="100%" >
-    <a  width="100%" href=""  >
-      <img  margin="auto" height="30" width="200" src="link.svg" >
+  <div  style="display:flex" width="100%" >
+    <a  style="display:flex;margin:auto;" width="100%" href=""  >
+      <img  style="margin=auto" height="30" width="200" src="link.svg" >
     </a>
   </div>
  
