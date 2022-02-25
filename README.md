@@ -17,7 +17,7 @@
   
   ##
 
-  <div  style="display: inline_block" width="100%">
+  <div  style="display: flex" width="100%">
   <a href="" >
   <img align="center"  height="30" width="200" src="link.svg" >
   </a>
