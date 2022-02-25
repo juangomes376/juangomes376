@@ -16,12 +16,15 @@
 </div>
   
   ##
- 
-<div style="display: inline_block" > 
+
+  <div  style="display: inline_block" width="100%">
   <a href="" >
   <img align="center"  height="30" width="200" src="link.svg" >
   </a>
+  </div>
  
+<div style="display: inline_block" > 
+  
   ![Snake animation](https://github.com/juangomes376/juangomes376/blob/output/github-contribution-grid-snake.svg)
  
 </div>
