@@ -17,8 +17,8 @@
   
   ##
  
-<div> 
-  <a href="https://linkfly.to/juangomes" target="_blank">
+<div style="display: inline_block" > 
+  <a href="" >
   <img align="center"  height="30" width="200" src="link.svg" >
   </a>
  
