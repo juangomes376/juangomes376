@@ -19,7 +19,7 @@
  
 <div> 
   <a href="https://linkfly.to/juangomes" target="_blank">
-  <img align="center"  height="150" width="800" src="link.svg" >
+  <img align="center"  height="30" width="200" src="link.svg" >
   </a>
  
   ![Snake animation](https://github.com/juangomes376/juangomes376/blob/output/github-contribution-grid-snake.svg)
