@@ -15,13 +15,7 @@
   
 </div>
   
-  ##
 
-  <div >
-    <a  href="https://juangomes376.github.io/MYlinks.dev/"  >
-      <img  height="30" width="180" src="link.svg" >
-    </a>
-  </div>
  
 <div > 
   
