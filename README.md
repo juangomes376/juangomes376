@@ -1,9 +1,11 @@
 ## Salve! meu nome e Juan Gomes
  <div>
   <a href="https://github.com/juangomes376"></a>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=juangomes376&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangomes376&layout=compact&langs_count=7&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=juangomes376&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangomes376&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
