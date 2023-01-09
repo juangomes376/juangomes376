@@ -20,6 +20,6 @@
 
 <div > 
   
-![snake gif](https://github.com/juangomes376/juangomes376/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
  
 </div>
