@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=figma,git,bash,docker,html,css,js" />
+<img src="https://skillicons.dev/icons?i=figma,git,bash,linux,html,css,js" />
 </div>
 
 <div > 
