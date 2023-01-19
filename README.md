@@ -3,7 +3,7 @@
  <div>
   <a href="https://github.com/juangomes376"></a>
  
- <img height="250em" src="https://github-readme-stats.vercel.app/api?username=juangomes376"/>
+ <[![GitHub Streak](https://streak-stats.demolab.com?user=juangomes376&theme=dark&locale=fr&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 <div style="display: inline_block"><br>
