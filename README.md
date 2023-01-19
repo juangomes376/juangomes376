@@ -18,7 +18,9 @@
 
 <div > 
   
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/juangomes376/juangomes376/output/github-contribution-grid-snake-dark.svg">
+
+ 
+ <img align="center" alt="Rafa-CSS" src="https://raw.githubusercontent.com/juangomes376/juangomes376/2d3ef2b513c68230ca8a7c021232f400ca29be7f/github-contribution-grid-snake-dark.svg">
  
 </div>
 
