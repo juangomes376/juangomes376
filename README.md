@@ -2,9 +2,8 @@
 
  <div>
   <a href="https://github.com/juangomes376"></a>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juangomes376&count_private=true)
-  
- <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangomes376&layout=compact&langs_count=7&theme=dark"/>
+ 
+ <img height="250em" src="https://github-readme-stats.vercel.app/api?username=juangomes376"/>
 </div>
 
 <div style="display: inline_block"><br>
