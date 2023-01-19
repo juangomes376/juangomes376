@@ -18,6 +18,10 @@
 
 <div > 
   
-<img align="center" alt="Rafa-CSS" src="https://raw.githubusercontent.com/juangomes376/juangomes376/2d3ef2b513c68230ca8a7c021232f400ca29be7f/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
  
 </div>
