@@ -1,4 +1,5 @@
-## Salve! meu nome e Juan Gomes
+## Salut je m'appelle juan 
+## Je suis étudiant en intégration web
 
  <div>
   <a href="https://github.com/juangomes376"></a>
