@@ -1,5 +1,5 @@
-## Salut je m'appelle juan 
-## Je suis étudiant en intégration web
+## Salut, je suis Juan Gomes , créateur de contenu de programmation et de technologie, et étudiant en intégration web 
+
 
  <div>
   <a href="https://github.com/juangomes376"></a>
