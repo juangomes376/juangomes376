@@ -17,7 +17,7 @@
   
 
  
- <img align="center" alt="" src="[https://raw.githubusercontent.com/juangomes376/juangomes376/9228f4a2601f3e7ca12f5e7db15daf9628c6f935/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/juangomes376/juangomes376/output/github-contribution-grid-snake.svg)">
+ <img align="center" alt="" src="https://raw.githubusercontent.com/juangomes376/juangomes376/output/github-contribution-grid-snake.svg">
  
 </div>
 
