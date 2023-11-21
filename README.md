@@ -18,7 +18,7 @@
   
 
  
- <img align="center" alt="" src="https://raw.githubusercontent.com/juangomes376/juangomes376/output/github-contribution-grid-snake.svg">
+ 
  
 </div>
 
