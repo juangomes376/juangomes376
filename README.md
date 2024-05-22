@@ -1,4 +1,4 @@
-## Salut, je suis Juan Gomes , créateur de contenu de programmation et de technologie, et étudiant en intégration web 
+## Salut, je suis Juan Gomes ,  étudiant en intégration web 
 
 
  
