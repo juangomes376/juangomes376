@@ -7,7 +7,7 @@
 - 📱 **Flutter** - Développement d'applications mobiles cross-platform
 - 🚀 **Laravel** - Framework PHP pour applications web robustes
 
-### � Projets
+### Projets
 
 <details>
 <summary>Cliquez pour voir mes projets (en cours de reconstruction)</summary>
@@ -23,7 +23,7 @@ Je suis en train de reconstruire certains de mes projets pour les rendre plus ro
 
 </details>
 
-### �🛠️ Technologies et Outils
+## :hammer:  Technologies et Outils
 
 <div style="display: inline_block">
 <img src="https://skillicons.dev/icons?i=figma,git,bash,linux,html,css,js,php,mysql,laravel,flutter" />
