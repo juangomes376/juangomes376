@@ -1,7 +1,7 @@
 ## Salut ! 👋 Je suis Juan Gomes
 
 ### 💼 À propos de moi
-Étudiant passionné en intégration web, je développe mes compétences en création d'applications web et mobiles. Actuellement basé en France, je me spécialise dans le développement full-stack avec un intérêt particulier pour les technologies modernes.
+Étudiant passionné en développement web, je développe mes compétences en création d'applications web et mobiles. Actuellement basé en France, je me spécialise dans le développement full-stack avec un intérêt particulier pour les technologies modernes.
 
 ### 📚 Actuellement en apprentissage
 - 📱 **Flutter** - Développement d'applications mobiles cross-platform
