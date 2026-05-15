@@ -5,7 +5,7 @@
 
 ### 📚 Actuellement en apprentissage
 - 📱 **Flutter** - Développement d'applications mobiles cross-platform
-- 🚀 **Laravel** - Framework PHP pour applications web robustes
+- 🚀 **Symfony** - Framework PHP pour applications web robustes
 
 ### Projets
 
